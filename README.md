@@ -5,6 +5,8 @@
 
 > Credit : ESPN http://www.espn.in
 
+![live](https://github.com/iamatulsingh/LiveScoreFetch/blob/master/live.png)
+
 ### how to use?
 install all required libraries using following command from your project directory
 ```pip install -r requirements.txt```
